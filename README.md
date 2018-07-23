@@ -1,0 +1,2 @@
+# PanafriPartnerApp
+Panafri Partner App
